@@ -1,0 +1,2 @@
+1. brew install taglib
+2. (Assuming venv) pip install pytaglib
